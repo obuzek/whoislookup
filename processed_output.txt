@@ -1,0 +1,3846 @@
+Date: 01/01/2015
+Time: 01:47:00
+Page: /~mpaul/index.php
+IP: 66.249.64.92
+Org Name: Google Inc.
+Referrer: 
+Date: 01/01/2015
+Time: 04:24:48
+Page: /~mpaul/index.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/01/2015
+Time: 05:32:05
+Page: /~mpaul/index.php
+IP: 157.55.39.211
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/01/2015
+Time: 07:24:29
+Page: /~mpaul/index.php
+IP: 66.249.64.78
+Org Name: Google Inc.
+Referrer: 
+Date: 01/01/2015
+Time: 08:39:56
+Page: /~mpaul/index.php
+IP: 1.186.237.153
+Description: D-VoiS Broadband Private Limited
+Referrer: https://www.google.co.in/
+Date: 01/01/2015
+Time: 08:43:05
+Page: /~mpaul/downloads/mftm.php
+IP: 1.186.237.153
+Description: D-VoiS Broadband Private Limited
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/01/2015
+Time: 08:45:20
+Page: /~mpaul/downloads/flda.php
+IP: 1.186.237.153
+Description: D-VoiS Broadband Private Limited
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/01/2015
+Time: 08:45:50
+Page: /~mpaul/downloads/mftm.php
+IP: 1.186.237.153
+Description: D-VoiS Broadband Private Limited
+Referrer: http://cs.jhu.edu/~mpaul/downloads/flda.php
+Date: 01/01/2015
+Time: 08:54:44
+Page: /~mpaul/downloads/mftm.php
+IP: 1.186.237.153
+Description: D-VoiS Broadband Private Limited
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/01/2015
+Time: 09:40:51
+Page: /~mpaul/index.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/01/2015
+Time: 10:44:35
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/01/2015
+Time: 10:44:35
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/01/2015
+Time: 10:44:35
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/01/2015
+Time: 10:44:35
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/01/2015
+Time: 10:44:35
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/01/2015
+Time: 10:44:36
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/01/2015
+Time: 10:56:47
+Page: /~mpaul/index.php
+IP: 176.195.181.107
+Description: Net By Net Holding LLC
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/01/2015
+Time: 11:19:50
+Page: /~mpaul/index.php
+IP: 195.154.177.83
+Description: Iliad Entreprises Customers
+Referrer: 
+Date: 01/01/2015
+Time: 12:18:03
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/01/2015
+Time: 12:28:59
+Page: /~mpaul/index.php
+IP: 108.186.244.7
+Org Name: PEG TECH INC
+Referrer: http://cs.jhu.edu
+Date: 01/01/2015
+Time: 13:12:18
+Page: /~mpaul/index.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/01/2015
+Time: 14:40:01
+Page: /~mpaul/downloads/ccdata.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/01/2015
+Time: 15:02:15
+Page: /~mpaul/index.php
+IP: 50.174.37.6
+Org Name: Comcast Cable Communications Holdings, Inc
+Referrer: 
+Date: 01/01/2015
+Time: 15:23:33
+Page: /~mpaul/downloads/flu_data.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/01/2015
+Time: 15:37:25
+Page: /~mpaul/index.php
+IP: 144.76.185.173
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/01/2015
+Time: 16:16:53
+Page: /~mpaul/downloads/flda.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/01/2015
+Time: 18:50:39
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/01/2015
+Time: 21:28:11
+Page: /~mpaul/index.php
+IP: 10.252.35.24
+Org Name: Internet Assigned Numbers Authority
+Referrer: https://www.google.com/
+Date: 01/01/2015
+Time: 22:03:59
+Page: /~mpaul/index.php
+IP: 216.171.12.44
+Org Name: PAVLOV MEDIA INC
+Referrer: https://www.google.com/
+Date: 01/02/2015
+Time: 02:35:19
+Page: /~mpaul/index.php
+IP: 123.125.71.50
+Description: YBV
+Referrer: 
+Date: 01/02/2015
+Time: 02:43:48
+Page: /~mpaul/index.php
+IP: 162.244.13.236
+Org Name: Power Up Hosting, Inc.
+Referrer: 
+Date: 01/02/2015
+Time: 04:24:29
+Page: /~mpaul/index.php
+IP: 87.122.189.42
+Description: Versatel Deutschland
+Referrer: https://www.google.com/
+Date: 01/02/2015
+Time: 05:44:23
+Page: /~mpaul/index.php
+IP: 148.251.124.42
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/02/2015
+Time: 05:52:16
+Page: /~mpaul/index.php
+IP: 180.76.6.147
+Description: Beijing Baidu Netcom Science and Technology Co., Ltd.
+Referrer: 
+Date: 01/02/2015
+Time: 06:00:54
+Page: /~mpaul/index.php
+IP: 62.210.96.36
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/02/2015
+Time: 06:00:58
+Page: /~mpaul/downloads/flda.php
+IP: 62.210.96.36
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/02/2015
+Time: 06:00:58
+Page: /~mpaul/downloads/mm.php
+IP: 62.210.96.36
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/02/2015
+Time: 06:00:58
+Page: /~mpaul/downloads/mftm.php
+IP: 62.210.96.36
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/02/2015
+Time: 06:01:00
+Page: /~mpaul/downloads/flu_data.php
+IP: 62.210.96.36
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/02/2015
+Time: 08:42:49
+Page: /~mpaul/index.php
+IP: 134.95.60.135
+Org Name: RIPE Network Coordination Centre
+Referrer: http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDQQFjAC&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=RaCmVOmxA827PbzxgegP&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.82001339,d.ZWU&cad=rja
+Date: 01/02/2015
+Time: 09:01:13
+Page: /~mpaul/index.php
+IP: 134.95.60.135
+Org Name: RIPE Network Coordination Centre
+Referrer: http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CDQQFjAC&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=RaCmVOmxA827PbzxgegP&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.82001339,d.ZWU&cad=rja
+Date: 01/02/2015
+Time: 09:59:34
+Page: /~mpaul/downloads/mm.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/02/2015
+Time: 10:45:22
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/02/2015
+Time: 10:45:22
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/02/2015
+Time: 10:45:22
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/02/2015
+Time: 10:45:22
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/02/2015
+Time: 10:45:22
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/02/2015
+Time: 10:45:23
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/02/2015
+Time: 12:05:05
+Page: /~mpaul/index.php
+IP: 10.252.37.122
+Org Name: Internet Assigned Numbers Authority
+Referrer: https://www.google.com/
+Date: 01/02/2015
+Time: 12:09:21
+Page: /~mpaul/downloads/flda.php
+IP: 174.129.237.157
+Org Name: Amazon.com, Inc.
+Referrer: 
+Date: 01/02/2015
+Time: 12:26:21
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/02/2015
+Time: 12:26:21
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/02/2015
+Time: 12:40:54
+Page: /~mpaul/index.php
+IP: 66.249.64.96
+Org Name: Google Inc.
+Referrer: 
+Date: 01/02/2015
+Time: 12:44:01
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/02/2015
+Time: 13:28:15
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/02/2015
+Time: 13:28:15
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/02/2015
+Time: 13:39:52
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/02/2015
+Time: 15:56:25
+Page: /~mpaul/downloads/mftm.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/02/2015
+Time: 15:57:09
+Page: /~mpaul/downloads/mftm.php
+IP: 67.230.141.26
+Org Name: Primus Telecommunications Canada Inc.
+Referrer: https://www.google.com/
+Date: 01/02/2015
+Time: 16:44:33
+Page: /~mpaul/downloads/flda.php
+IP: 208.115.111.73
+Org Name: dotnetdotcom.org
+Referrer: 
+Date: 01/02/2015
+Time: 17:10:18
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/02/2015
+Time: 17:18:47
+Page: /~mpaul/index.php
+IP: 107.77.85.50
+Org Name: AT&T Mobility LLC
+Referrer: https://www.google.com/
+Date: 01/02/2015
+Time: 18:30:05
+Page: /~mpaul/index.php
+IP: 98.169.83.231
+Org Name: Cox Communications Inc.
+Referrer: https://www.google.com/
+Date: 01/02/2015
+Time: 18:50:54
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/02/2015
+Time: 18:54:46
+Page: /~mpaul/index.php
+IP: 172.7.58.130
+Org Name: AT&T Internet Services
+Referrer: http://t.co/37HQheKXB8
+Date: 01/02/2015
+Time: 20:51:29
+Page: /~mpaul/index.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/02/2015
+Time: 21:00:13
+Page: /~mpaul/index.php
+IP: 123.30.175.225
+Description: VietNam Data Communication Company (VDC)
+Referrer: 
+Date: 01/02/2015
+Time: 22:40:13
+Page: /~mpaul/index.php
+IP: 144.76.201.69
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/02/2015
+Time: 22:42:31
+Page: /~mpaul/index.php
+IP: 54.176.246.170
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/02/2015
+Time: 22:57:40
+Page: /~mpaul/index.php
+IP: 176.14.209.56
+Description: Dynamic IP Pool for Broadband Customers
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/02/2015
+Time: 23:57:48
+Page: /~mpaul/downloads/mm.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/03/2015
+Time: 00:48:57
+Page: /~mpaul/downloads/flu_data.php
+IP: 208.115.111.73
+Org Name: dotnetdotcom.org
+Referrer: 
+Date: 01/03/2015
+Time: 01:26:58
+Page: /~mpaul/index.php
+IP: 66.249.64.92
+Org Name: Google Inc.
+Referrer: 
+Date: 01/03/2015
+Time: 03:08:08
+Page: /~mpaul/index.php
+IP: 50.45.124.42
+Org Name: Frontier Communications of America, Inc.
+Referrer: https://www.google.com/
+Date: 01/03/2015
+Time: 04:20:57
+Page: /~mpaul/index.php
+IP: 155.69.151.223
+Org Name: Asia Pacific Network Information Centre
+Referrer: http://www.cs.jhu.edu/~mdredze/group.php
+Date: 01/03/2015
+Time: 04:49:13
+Page: /~mpaul/downloads/healthcare.php
+IP: 208.115.111.73
+Org Name: dotnetdotcom.org
+Referrer: 
+Date: 01/03/2015
+Time: 04:53:06
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/03/2015
+Time: 06:32:59
+Page: /~mpaul/index.php
+IP: 218.30.103.67
+Description: CHINANET IDC center
+Referrer: 
+Date: 01/03/2015
+Time: 06:53:01
+Page: /~mpaul/index.php
+IP: 144.76.185.173
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/03/2015
+Time: 06:53:04
+Page: /~mpaul/index.php
+IP: 148.251.69.136
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/03/2015
+Time: 06:53:17
+Page: /~mpaul/index.php
+IP: 148.251.124.42
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/03/2015
+Time: 07:43:23
+Page: /~mpaul/index.php
+IP: 109.74.216.180
+Description: DARS Telecom
+Referrer: https://www.google.co.uk/
+Date: 01/03/2015
+Time: 08:51:38
+Page: /~mpaul/index.php
+IP: 180.153.236.104
+Description: CHINANET SHANGHAI PROVINCE NETWORK
+Referrer: http://www.cs.jhu.edu/~mpaul/
+Date: 01/03/2015
+Time: 10:45:57
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/03/2015
+Time: 10:45:57
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/03/2015
+Time: 10:45:57
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/03/2015
+Time: 10:45:58
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/03/2015
+Time: 10:45:58
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/03/2015
+Time: 10:45:59
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/03/2015
+Time: 12:41:40
+Page: /~mpaul/index.php
+IP: 5.9.183.6
+Description: Solid Seo VPS
+Referrer: http://cs.jhu.edu/
+Date: 01/03/2015
+Time: 12:51:09
+Page: /~mpaul/downloads/healthcare.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/03/2015
+Time: 12:51:58
+Page: /~mpaul/index.php
+IP: 99.60.232.158
+Org Name: AT&T Internet Services
+Referrer: https://www.google.com/
+Date: 01/03/2015
+Time: 13:11:05
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/03/2015
+Time: 14:46:18
+Page: /~mpaul/index.php
+IP: 41.200.3.122
+Description: ADSL ANIS-nouveau produit DJAWEB
+Referrer: http://www.google.dz/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBwQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=DUWoVM3QNoPiaK-agZAM&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg
+Date: 01/03/2015
+Time: 15:47:23
+Page: /~mpaul/index.php
+IP: 165.124.162.253
+Org Name: Northwestern University
+Referrer: http://www.bing.com/search?q=Michael%20J.%20Paul%20a&pc=cosp&ptag=A316A5D3C6E4B4B068EF&form=CONMHP&conlogo=CT3210127
+Date: 01/03/2015
+Time: 15:56:25
+Page: /~mpaul/downloads/flu_data.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/03/2015
+Time: 18:34:19
+Page: /~mpaul/index.php
+IP: 69.251.241.86
+Org Name: Comcast Cable Communications, Inc.
+Referrer: https://www.google.com/
+Date: 01/03/2015
+Time: 18:51:21
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/03/2015
+Time: 19:34:37
+Page: /~mpaul/index.php
+IP: 77.58.33.19
+Description: Cablecom GmbH
+Referrer: 
+Date: 01/03/2015
+Time: 19:46:00
+Page: /~mpaul/index.php
+IP: 93.186.202.253
+Description: myLoc managed IT AG
+Referrer: 
+Date: 01/03/2015
+Time: 23:17:39
+Page: /~mpaul/index.php
+IP: 218.30.103.67
+Description: CHINANET IDC center
+Referrer: 
+Date: 01/04/2015
+Time: 01:28:03
+Page: /~mpaul/downloads/healthcare.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 03:19:59
+Page: /~mpaul/index.php
+IP: 144.76.163.48
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/04/2015
+Time: 03:57:08
+Page: /~mpaul/index.php
+IP: 180.76.6.233
+Description: Beijing Baidu Netcom Science and Technology Co., Ltd.
+Referrer: 
+Date: 01/04/2015
+Time: 03:57:46
+Page: /~mpaul/index.php
+IP: 62.210.84.119
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/04/2015
+Time: 05:25:32
+Page: /~mpaul/index.php
+IP: 160.16.71.72
+Org Name: Asia Pacific Network Information Centre
+Referrer: https://www.google.com/
+Date: 01/04/2015
+Time: 05:51:05
+Page: /~mpaul/downloads/mftm.php
+IP: 36.99.31.208
+Description: CHINANET henan province network
+Referrer: http://www.cs.jhu.edu/~mpaul/downloads/mftm.php
+Date: 01/04/2015
+Time: 09:50:08
+Page: /~mpaul/downloads/healthcare.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 10:01:45
+Page: /~mpaul/index.php
+IP: 66.249.75.222
+Org Name: Google Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 10:46:21
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/04/2015
+Time: 10:46:21
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/04/2015
+Time: 10:46:21
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/04/2015
+Time: 10:46:21
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/04/2015
+Time: 10:46:21
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/04/2015
+Time: 10:46:22
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/04/2015
+Time: 12:22:02
+Page: /~mpaul/index.php
+IP: 66.87.78.205
+Org Name: Sprint Chicago POP
+Referrer: https://www.google.com/
+Date: 01/04/2015
+Time: 14:55:02
+Page: /~mpaul/index.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/04/2015
+Time: 15:11:06
+Page: /~mpaul/index.php
+IP: 145.18.220.102
+Description: Universiteit van Amsterdam
+Referrer: https://www.google.nl/
+Date: 01/04/2015
+Time: 15:36:19
+Page: /~mpaul/index.php
+IP: 173.192.34.95
+Org Name: SoftLayer Technologies Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 15:38:48
+Page: /~mpaul/downloads/flda.php
+IP: 173.192.34.95
+Org Name: SoftLayer Technologies Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 15:38:49
+Page: /~mpaul/downloads/mm.php
+IP: 173.192.34.95
+Org Name: SoftLayer Technologies Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 15:38:49
+Page: /~mpaul/downloads/mftm.php
+IP: 173.192.34.95
+Org Name: SoftLayer Technologies Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 17:45:53
+Page: /~mpaul/downloads/ccdata.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/04/2015
+Time: 18:05:34
+Page: /~mpaul/index.php
+IP: 148.251.124.42
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/04/2015
+Time: 18:51:53
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/04/2015
+Time: 20:10:34
+Page: /~mpaul/index.php
+IP: 144.76.155.8
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/04/2015
+Time: 21:27:24
+Page: /~mpaul/index.php
+IP: 123.125.71.21
+Description: YBV
+Referrer: 
+Date: 01/04/2015
+Time: 22:12:43
+Page: /~mpaul/index.php
+IP: 36.99.31.72
+Description: CHINANET henan province network
+Referrer: http://www.cs.jhu.edu/~mpaul/
+Date: 01/05/2015
+Time: 00:15:15
+Page: /~mpaul/downloads/mftm.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/05/2015
+Time: 03:26:47
+Page: /~mpaul/index.php
+IP: 88.161.227.58
+Description: Proxad / Free SAS
+Referrer: http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CD0QFjAC&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=wkqqVPnYHNDlas6sgeAI&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=XYL3htRn1kDeX8bFderoRg&bvm=bv.82001339,d.d2s
+Date: 01/05/2015
+Time: 03:30:53
+Page: /~mpaul/index.php
+IP: 88.161.227.58
+Description: Proxad / Free SAS
+Referrer: http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CD0QFjAC&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=wkqqVPnYHNDlas6sgeAI&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=XYL3htRn1kDeX8bFderoRg&bvm=bv.82001339,d.d2s
+Date: 01/05/2015
+Time: 03:41:17
+Page: /~mpaul/index.php
+IP: 108.78.9.246
+Org Name: AT&T Internet Services
+Referrer: https://www.google.com/
+Date: 01/05/2015
+Time: 06:24:35
+Page: /~mpaul/index.php
+IP: 66.249.64.100
+Org Name: Google Inc.
+Referrer: 
+Date: 01/05/2015
+Time: 06:28:29
+Page: /~mpaul/downloads/flda.php
+IP: 66.249.64.86
+Org Name: Google Inc.
+Referrer: 
+Date: 01/05/2015
+Time: 06:36:34
+Page: /~mpaul/index.php
+IP: 193.55.175.20
+Description: Maison de la Recherche - Universite de Toulouse-2
+Referrer: 
+Date: 01/05/2015
+Time: 09:03:14
+Page: /~mpaul/index.php
+IP: 149.20.69.4
+Org Name: Internet Systems Consortium, Inc.
+Referrer: http://www.google.com
+Date: 01/05/2015
+Time: 10:02:06
+Page: /~mpaul/index.php
+IP: 134.245.37.37
+Org Name: RIPE Network Coordination Centre
+Referrer: http://www.bing.com/search?q=michael+paul+jhu&qs=n&form=QBRE&pq=michael+paul+jhu&sc=0-13&sp=-1&sk=&cvid=23d8437c6feb4a77a699a5bce2951e82
+Date: 01/05/2015
+Time: 10:02:06
+Page: /~mpaul/index.php
+IP: 134.245.37.37
+Org Name: RIPE Network Coordination Centre
+Referrer: http://www.bing.com/search?q=michael+paul+jhu&qs=n&form=QBRE&pq=michael+paul+jhu&sc=0-13&sp=-1&sk=&cvid=23d8437c6feb4a77a699a5bce2951e82
+Date: 01/05/2015
+Time: 10:33:27
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/05/2015
+Time: 10:37:01
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/05/2015
+Time: 10:46:44
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/05/2015
+Time: 10:46:44
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/05/2015
+Time: 10:46:44
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/05/2015
+Time: 10:46:44
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/05/2015
+Time: 10:46:44
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/05/2015
+Time: 10:46:55
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/05/2015
+Time: 11:20:38
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: http://www.google.com/url?q=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&sa=D&sntz=1&usg=AFQjCNGfkIlU5fnLhhmpV7Ap4HPiS0Rk2w
+Date: 01/05/2015
+Time: 11:23:55
+Page: /~mpaul/downloads/flda.php
+IP: 66.228.65.70
+Org Name: Towerstream I, Inc.
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCAQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2Fdownloads%2Fflda.php&ei=lbqqVPX7Dcr4yQTcloCYAw&usg=AFQjCNGnKXbUVJOB8BMuk50k_AVPseASnw&bvm=bv.82001339,d.aWw
+Date: 01/05/2015
+Time: 12:09:53
+Page: /~mpaul/index.php
+IP: 10.188.174.119
+Org Name: Internet Assigned Numbers Authority
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCMQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=WsWqVPvEIYGAgwTg1YGABw&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=0Z05Vc1tn94OK3QyuRXw6g&bvm=bv.82001339,d.eXY
+Date: 01/05/2015
+Time: 12:16:46
+Page: /~mpaul/index.php
+IP: 67.162.38.10
+Org Name: Comcast Cable Communications, Inc.
+Referrer: https://www.google.com/
+Date: 01/05/2015
+Time: 13:17:04
+Page: /~mpaul/index.php
+IP: 66.249.64.96
+Org Name: Google Inc.
+Referrer: 
+Date: 01/05/2015
+Time: 15:24:54
+Page: /~mpaul/index.php
+IP: 128.231.88.246
+Org Name: National Institutes of Health
+Referrer: 
+Date: 01/05/2015
+Time: 15:26:05
+Page: /~mpaul/index.php
+IP: 156.40.140.142
+Org Name: National Institutes of Health
+Referrer: https://www.google.com/
+Date: 01/05/2015
+Time: 16:24:00
+Page: /~mpaul/index.php
+IP: 198.204.249.34
+Org Name: DataShack, LC
+Referrer: 
+Date: 01/05/2015
+Time: 17:20:43
+Page: /~mpaul/index.php
+IP: 180.76.5.144
+Description: Beijing Baidu Netcom Science and Technology Co., Ltd.
+Referrer: 
+Date: 01/05/2015
+Time: 18:37:01
+Page: /~mpaul/index.php
+IP: 180.217.32.85
+Description: Vibo Telecom Inc.
+Referrer: https://www.google.com.tw/
+Date: 01/05/2015
+Time: 18:52:03
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/05/2015
+Time: 20:04:28
+Page: /~mpaul/index.php
+IP: 144.76.201.69
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/05/2015
+Time: 20:35:41
+Page: /~mpaul/index.php
+IP: 77.75.73.36
+Description: Seznam.cz, a.s.
+Referrer: 
+Date: 01/05/2015
+Time: 21:44:43
+Page: /~mpaul/index.php
+IP: 99.109.88.224
+Org Name: AT&T Internet Services
+Referrer: 
+Date: 01/05/2015
+Time: 21:55:59
+Page: /~mpaul/index.php
+IP: 184.96.226.49
+Org Name: Qwest Communications Company, LLC
+Referrer: 
+Date: 01/05/2015
+Time: 22:11:27
+Page: /~mpaul/downloads/mftm.php
+IP: 176.9.207.92
+Description: Hetzner Online AG
+Referrer: 
+Date: 01/05/2015
+Time: 22:37:01
+Page: /~mpaul/index.php
+IP: 79.165.16.113
+Description: BRAS E-320-41 DHCP-pool
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/05/2015
+Time: 22:37:02
+Page: /~mpaul/index.php
+IP: 92.242.35.54
+Description: Mir Telematiki, llc
+Referrer: 
+Date: 01/05/2015
+Time: 23:46:58
+Page: /~mpaul/index.php
+IP: 54.197.106.61
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/06/2015
+Time: 00:25:37
+Page: /~mpaul/index.php
+IP: 144.76.155.8
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/06/2015
+Time: 00:42:02
+Page: /~mpaul/index.php
+IP: 66.249.64.100
+Org Name: Google Inc.
+Referrer: 
+Date: 01/06/2015
+Time: 01:01:45
+Page: /~mpaul/index.php
+IP: 98.159.88.59
+Org Name: Bel Air Internet, LLC
+Referrer: 
+Date: 01/06/2015
+Time: 03:03:33
+Page: /~mpaul/index.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/06/2015
+Time: 09:01:43
+Page: /~mpaul/index.php
+IP: 67.222.112.58
+Org Name: Transwave Communications Systems, Inc.
+Referrer: http://www.bing.com/search?q=michael+joseph+paul&src=IE-SearchBox&Form=IE8SRC&adlt=strict
+Date: 01/06/2015
+Time: 09:10:21
+Page: /~mpaul/index.php
+IP: 77.225.153.236
+Description: Comunitel Global S.A.
+Referrer: http://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCMQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=w-yrVOqzLYnwUM3_gqAL&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.82001339,d.d24
+Date: 01/06/2015
+Time: 09:29:35
+Page: /~mpaul/index.php
+IP: 174.226.64.62
+Org Name: Cellco Partnership DBA Verizon Wireless
+Referrer: https://www.google.com/
+Date: 01/06/2015
+Time: 09:58:17
+Page: /~mpaul/index.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/06/2015
+Time: 10:16:11
+Page: /~mpaul/index.php
+IP: 112.118.37.184
+Description: Hong Kong Telecommunications (HKT) Limited Mass Internet
+Referrer: https://www.google.com.hk/
+Date: 01/06/2015
+Time: 10:16:55
+Page: /~mpaul/index.php
+IP: 112.118.37.184
+Description: Hong Kong Telecommunications (HKT) Limited Mass Internet
+Referrer: 
+Date: 01/06/2015
+Time: 10:24:10
+Page: /~mpaul/index.php
+IP: 216.81.94.75
+Org Name: DEPARTMENT OF HOMELAND SECURITY
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=C_6rVP-4BcuYNq2Ug8AI&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.82001339,d.eXY
+Date: 01/06/2015
+Time: 10:47:25
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/06/2015
+Time: 10:47:25
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/06/2015
+Time: 10:47:25
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/06/2015
+Time: 10:47:26
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/06/2015
+Time: 10:47:26
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/06/2015
+Time: 10:47:26
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/06/2015
+Time: 11:37:21
+Page: /~mpaul/index.php
+IP: 188.165.15.44
+Description: OVH SAS
+Referrer: 
+Date: 01/06/2015
+Time: 13:43:32
+Page: /~mpaul/index.php
+IP: 162.243.163.141
+Org Name: Digital Ocean, Inc.
+Referrer: 
+Date: 01/06/2015
+Time: 13:44:17
+Page: /~mpaul/downloads/flda.php
+IP: 162.243.163.141
+Org Name: Digital Ocean, Inc.
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/06/2015
+Time: 14:06:14
+Page: /~mpaul/index.php
+IP: 144.76.201.69
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/06/2015
+Time: 14:35:01
+Page: /~mpaul/downloads/ccdata.php
+IP: 62.210.84.119
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/06/2015
+Time: 14:35:01
+Page: /~mpaul/downloads/ccdata.php/trackback/
+IP: 62.210.84.119
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: http://cs.jhu.edu/~mpaul/downloads/ccdata.php
+Date: 01/06/2015
+Time: 15:03:47
+Page: /~mpaul/downloads/mftm.php
+IP: 140.180.252.4
+Org Name: Princeton University
+Referrer: https://www.google.com/
+Date: 01/06/2015
+Time: 15:30:33
+Page: /~mpaul/index.php
+IP: 96.234.145.252
+Org Name: Verizon Online LLC
+Referrer: https://www.google.com/
+Date: 01/06/2015
+Time: 16:38:42
+Page: /~mpaul/index.php
+IP: 96.234.145.252
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/06/2015
+Time: 16:38:56
+Page: /~mpaul/downloads/flda.php
+IP: 96.234.145.252
+Org Name: Verizon Online LLC
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/06/2015
+Time: 16:43:34
+Page: /~mpaul/downloads/mftm.php
+IP: 96.234.145.252
+Org Name: Verizon Online LLC
+Referrer: http://cs.jhu.edu/~mpaul/downloads/flda.php
+Date: 01/06/2015
+Time: 16:47:16
+Page: /~mpaul/index.php
+IP: 66.249.64.86
+Org Name: Google Inc.
+Referrer: 
+Date: 01/06/2015
+Time: 17:25:15
+Page: /~mpaul/index.php
+IP: 107.77.83.126
+Org Name: AT&T Mobility LLC
+Referrer: https://www.google.com/
+Date: 01/06/2015
+Time: 17:55:58
+Page: /~mpaul/index.php
+IP: 179.213.77.131
+From ??? Check WHOIS output! whoisCache/179.213.77.131.txt
+Referrer: http://www.google.com.br/url?url=http://cs.jhu.edu/~mpaul/&rct=j&frm=1&q=&esrc=s&sa=U&ei=42esVLPtF8XasATU1ILIBQ&ved=0CCAQFjAC&usg=AFQjCNGMomPYtrPf17vG0WkiEVdtj-3-Gw
+Date: 01/06/2015
+Time: 18:52:30
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/06/2015
+Time: 20:28:24
+Page: /~mpaul/index.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/06/2015
+Time: 23:30:29
+Page: /~mpaul/index.php
+IP: 107.20.34.32
+Org Name: Amazon.com, Inc.
+Referrer: 
+Date: 01/07/2015
+Time: 01:16:05
+Page: /~mpaul/index.php
+IP: 173.59.251.104
+Org Name: Verizon Online LLC
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CC0QFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=I8-sVMCBCMuZNqKMg2g&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=g2xgqn5x1kN0eKvK-07ilg&bvm=bv.83134100,d.eXY
+Date: 01/07/2015
+Time: 08:33:37
+Page: /~mpaul/downloads/mftm.php
+IP: 62.210.84.119
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: 
+Date: 01/07/2015
+Time: 08:33:38
+Page: /~mpaul/downloads/mftm.php/trackback/
+IP: 62.210.84.119
+Description: IP Pool for Iliad-Entreprises Business Hosting Customers
+Referrer: http://cs.jhu.edu/~mpaul/downloads/mftm.php
+Date: 01/07/2015
+Time: 09:22:16
+Page: /~mpaul/downloads/flda.php
+IP: 67.249.180.117
+Org Name: Time Warner Cable Internet LLC
+Referrer: http://r.search.yahoo.com/_ylt=A0LEVj2XQK1UDIMAniAPxQt.;_ylu=X3oDMTByODJtaWUzBHNlYwNzcgRwb3MDMwRjb2xvA2JmMQR2dGlkAw--/RV=2/RE=1420669207/RO=10/RU=http%3a%2f%2fcs.jhu.edu%2f~mpaul%2fdownloads%2fflda.php/RK=0/RS=1bIH5ZLMWa_RS0qss.5n_ksYjxk-
+Date: 01/07/2015
+Time: 10:18:53
+Page: /~mpaul/downloads/flda.php
+IP: 67.249.180.117
+Org Name: Time Warner Cable Internet LLC
+Referrer: http://r.search.yahoo.com/_ylt=A0LEV7hZTq1ULlYAsQAPxQt.;_ylu=X3oDMTByODJtaWUzBHNlYwNzcgRwb3MDMwRjb2xvA2JmMQR2dGlkAw--/RV=2/RE=1420672730/RO=10/RU=http%3a%2f%2fcs.jhu.edu%2f~mpaul%2fdownloads%2fflda.php/RK=0/RS=9HcdgSCgpVNFkXT8l2ps5KwG.D0-
+Date: 01/07/2015
+Time: 10:48:21
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/07/2015
+Time: 10:48:22
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/07/2015
+Time: 10:48:22
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/07/2015
+Time: 10:48:22
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/07/2015
+Time: 10:48:22
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/07/2015
+Time: 10:48:22
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/07/2015
+Time: 10:51:34
+Page: /~mpaul/downloads/mftm.php
+IP: 67.249.180.117
+Org Name: Time Warner Cable Internet LLC
+Referrer: http://cs.jhu.edu/~mpaul/downloads/flda.php
+Date: 01/07/2015
+Time: 11:29:35
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/07/2015
+Time: 11:46:04
+Page: /~mpaul/index.php
+IP: 128.83.248.242
+Org Name: University of Texas at Austin
+Referrer: http://t.co/37HQheKXB8
+Date: 01/07/2015
+Time: 12:16:22
+Page: /~mpaul/index.php
+IP: 156.111.111.153
+Org Name: The Trustees of Columbia University in the City of New York
+Referrer: http://www.cs.jhu.edu/~mdredze/group.php
+Date: 01/07/2015
+Time: 12:16:41
+Page: /~mpaul/index.php
+IP: 10.252.98.219
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/07/2015
+Time: 13:02:09
+Page: /~mpaul/index.php
+IP: 66.249.64.96
+Org Name: Google Inc.
+Referrer: 
+Date: 01/07/2015
+Time: 14:08:46
+Page: /~mpaul/index.php
+IP: 63.252.64.207
+Org Name: PaeTec Communications, Inc.
+Referrer: 
+Date: 01/07/2015
+Time: 14:54:07
+Page: /~mpaul/index.php
+IP: 107.20.34.32
+Org Name: Amazon.com, Inc.
+Referrer: 
+Date: 01/07/2015
+Time: 15:08:12
+Page: /~mpaul/index.php
+IP: 193.84.36.101
+Description: Czech University of Life Sciences Prague
+Referrer: https://www.google.cz/
+Date: 01/07/2015
+Time: 16:17:45
+Page: /~mpaul/downloads/mm.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/07/2015
+Time: 17:39:05
+Page: /~mpaul/index.php
+IP: 160.39.202.95
+Org Name: Columbia University
+Referrer: http://www.cs.jhu.edu/~mdredze/group.php
+Date: 01/07/2015
+Time: 18:03:15
+Page: /~mpaul/index.php
+IP: 138.246.2.201
+Org Name: RIPE Network Coordination Centre
+Referrer: https://www.google.de/
+Date: 01/07/2015
+Time: 18:06:03
+Page: /~mpaul/index.php
+IP: 100.2.156.15
+Org Name: Verizon Online LLC
+Referrer: https://www.google.com/
+Date: 01/07/2015
+Time: 18:53:00
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/07/2015
+Time: 20:17:02
+Page: /~mpaul/index.php
+IP: 54.196.208.250
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/07/2015
+Time: 20:54:22
+Page: /~mpaul/index.php
+IP: 54.90.115.150
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/07/2015
+Time: 20:59:51
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/07/2015
+Time: 22:05:20
+Page: /~mpaul/index.php
+IP: 71.231.179.34
+Org Name: Comcast Cable Communications, Inc.
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB4QFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=4vOtVO7JF9ivoQSrzoKwCw&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=_Wwbu9xyxK9vqV7jYBBaxA&bvm=bv.83339334,d.cGU
+Date: 01/08/2015
+Time: 00:30:09
+Page: /~mpaul/index.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/08/2015
+Time: 01:02:10
+Page: /~mpaul/index.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/08/2015
+Time: 01:08:19
+Page: /~mpaul/index.php
+IP: 66.249.64.100
+Org Name: Google Inc.
+Referrer: 
+Date: 01/08/2015
+Time: 02:05:07
+Page: /~mpaul/index.php
+IP: 98.159.88.59
+Org Name: Bel Air Internet, LLC
+Referrer: 
+Date: 01/08/2015
+Time: 03:36:04
+Page: /~mpaul/index.php
+IP: 192.54.222.20
+Org Name: Massachusetts Institute of Technology
+Referrer: https://www.google.com/
+Date: 01/08/2015
+Time: 06:32:42
+Page: /~mpaul/downloads/flda.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/08/2015
+Time: 08:24:10
+Page: /~mpaul/downloads/mftm.php
+IP: 69.113.50.200
+Org Name: Optimum Online
+Referrer: 
+Date: 01/08/2015
+Time: 09:31:13
+Page: /~mpaul/index.php
+IP: 66.249.73.238
+Org Name: Google Inc.
+Referrer: 
+Date: 01/08/2015
+Time: 10:25:52
+Page: /~mpaul/downloads/mftm.php
+IP: 1.186.234.170
+Description: D-VoiS Broadband Private Limited
+Referrer: https://www.google.co.in/
+Date: 01/08/2015
+Time: 10:48:59
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/08/2015
+Time: 10:48:59
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/08/2015
+Time: 10:48:59
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/08/2015
+Time: 10:48:59
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/08/2015
+Time: 10:49:00
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/08/2015
+Time: 10:49:00
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/08/2015
+Time: 14:28:18
+Page: /~mpaul/index.php
+IP: 148.251.69.136
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/08/2015
+Time: 14:41:48
+Page: /~mpaul/index.php
+IP: 148.251.69.136
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/08/2015
+Time: 15:26:38
+Page: /~mpaul/index.php
+IP: 68.181.207.218
+Org Name: University of Southern California
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=--euVPPhNoTUoATA1YKgBg&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=Apyf1tjX3OcUAnyHlaZwkw&bvm=bv.83339334,d.cGU
+Date: 01/08/2015
+Time: 16:25:52
+Page: /~mpaul/index.php
+IP: 99.109.88.224
+Org Name: AT&T Internet Services
+Referrer: 
+Date: 01/08/2015
+Time: 16:31:29
+Page: /~mpaul/index.php
+IP: 85.72.229.113
+Description: Multiprotocol Service Provider to other ISP's and End Users
+Referrer: https://www.google.com/
+Date: 01/08/2015
+Time: 16:31:38
+Page: /~mpaul/index.php
+IP: 85.72.229.113
+Description: Multiprotocol Service Provider to other ISP's and End Users
+Referrer: https://www.google.com/
+Date: 01/08/2015
+Time: 18:53:24
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/08/2015
+Time: 19:35:54
+Page: /~mpaul/index.php
+IP: 38.104.230.226
+Org Name: PSINet, Inc.
+Referrer: https://www.google.com/
+Date: 01/08/2015
+Time: 20:46:55
+Page: /~mpaul/index.php
+IP: 138.16.111.210
+Org Name: Brown University
+Referrer: https://www.google.com/
+Date: 01/08/2015
+Time: 20:47:35
+Page: /~mpaul/downloads/flda.php
+IP: 138.16.111.210
+Org Name: Brown University
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/08/2015
+Time: 20:54:44
+Page: /~mpaul/index.php
+IP: 144.76.185.173
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/08/2015
+Time: 20:54:45
+Page: /~mpaul/index.php
+IP: 148.251.75.46
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/08/2015
+Time: 21:26:39
+Page: /~mpaul/index.php
+IP: 144.76.201.69
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/08/2015
+Time: 21:44:15
+Page: /~mpaul/downloads/mm.php
+IP: 66.249.73.230
+Org Name: Google Inc.
+Referrer: 
+Date: 01/08/2015
+Time: 22:24:33
+Page: /~mpaul/index.php
+IP: 148.251.69.136
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/08/2015
+Time: 23:03:02
+Page: /~mpaul/downloads/mm.php
+IP: 66.249.73.238
+Org Name: Google Inc.
+Referrer: 
+Date: 01/08/2015
+Time: 23:26:47
+Page: /~mpaul/downloads/healthcare.php
+IP: 157.55.39.102
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/09/2015
+Time: 03:59:49
+Page: /~mpaul/index.php
+IP: 193.190.253.144
+Description: Katholieke Universiteit Leuven
+Referrer: 
+Date: 01/09/2015
+Time: 04:08:56
+Page: /~mpaul/index.php
+IP: 199.59.148.210
+Org Name: Twitter Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 05:11:50
+Page: /~mpaul/index.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 05:43:42
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/09/2015
+Time: 07:03:49
+Page: /~mpaul/downloads/mftm.php
+IP: 210.37.45.125
+Description: ~{:#DO4sQ'~}
+Referrer: 
+Date: 01/09/2015
+Time: 07:36:27
+Page: /~mpaul/index.php
+IP: 104.131.209.90
+Org Name: Digital Ocean, Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 09:52:38
+Page: /~mpaul/downloads/flda.php
+IP: 72.195.138.237
+Org Name: Cox Communications Inc.
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 10:19:05
+Page: /~mpaul/index.php
+IP: 46.151.52.79
+Description: PE Radashevsky Sergiy Oleksandrovich
+Referrer: http://cs.jhu.edu/%7Empaul/
+Date: 01/09/2015
+Time: 10:49:44
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/09/2015
+Time: 10:49:44
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/09/2015
+Time: 10:49:44
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/09/2015
+Time: 10:49:44
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/09/2015
+Time: 10:49:44
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/09/2015
+Time: 10:49:44
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/09/2015
+Time: 11:04:53
+Page: /~mpaul/index.php
+IP: 50.138.134.22
+Org Name: Comcast Cable Communications Holdings, Inc
+Referrer: http://t.co/37HQheKXB8
+Date: 01/09/2015
+Time: 11:10:19
+Page: /~mpaul/index.php
+IP: 71.233.156.42
+Org Name: Comcast Cable Communications, Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 11:17:40
+Page: /~mpaul/index.php
+IP: 24.34.20.7
+Org Name: Comcast Cable Communications Holdings, Inc
+Referrer: 
+Date: 01/09/2015
+Time: 11:41:10
+Page: /~mpaul/index.php
+IP: 146.6.208.11
+Org Name: University of Texas at Austin
+Referrer: https://www.google.com/
+Date: 01/09/2015
+Time: 11:41:39
+Page: /~mpaul/index.php
+IP: 128.83.139.59
+Org Name: University of Texas at Austin
+Referrer: 
+Date: 01/09/2015
+Time: 12:17:28
+Page: /~mpaul/index.php
+IP: 31.11.93.190
+Description: DOCSIS clents in Avtokomanda
+Referrer: 
+Date: 01/09/2015
+Time: 12:25:51
+Page: /~mpaul/index.php
+IP: 214.3.17.37
+Org Name: DoD Network Information Center
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCAQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=Aw-wVMqWI4K-ggTn1YPgBA&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.83339334,d.eXY
+Date: 01/09/2015
+Time: 13:40:23
+Page: /~mpaul/index.php
+IP: 31.11.93.190
+Description: DOCSIS clents in Avtokomanda
+Referrer: 
+Date: 01/09/2015
+Time: 13:40:24
+Page: /~mpaul/index.php
+IP: 31.11.93.190
+Description: DOCSIS clents in Avtokomanda
+Referrer: 
+Date: 01/09/2015
+Time: 13:40:26
+Page: /~mpaul/index.php
+IP: 31.11.93.190
+Description: DOCSIS clents in Avtokomanda
+Referrer: 
+Date: 01/09/2015
+Time: 13:40:27
+Page: /~mpaul/index.php
+IP: 31.11.93.190
+Description: DOCSIS clents in Avtokomanda
+Referrer: 
+Date: 01/09/2015
+Time: 13:57:31
+Page: /~mpaul/index.php
+IP: 66.249.64.92
+Org Name: Google Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 14:13:04
+Page: /~mpaul/index.php
+IP: 23.22.249.51
+Org Name: Amazon.com, Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 16:37:22
+Page: /~mpaul/downloads/flda.php
+IP: 138.16.119.2
+Org Name: Brown University
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=0CE4QFjAF&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2Fdownloads%2Fflda.php&ei=-EmwVInfHOO0sAS5t4KwAw&usg=AFQjCNGnKXbUVJOB8BMuk50k_AVPseASnw&bvm=bv.83339334,d.cWc
+Date: 01/09/2015
+Time: 16:37:49
+Page: /~mpaul/downloads/mftm.php
+IP: 138.16.119.2
+Org Name: Brown University
+Referrer: http://cs.jhu.edu/~mpaul/downloads/flda.php
+Date: 01/09/2015
+Time: 17:17:35
+Page: /~mpaul/index.php
+IP: 54.172.33.8
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 17:24:35
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/09/2015
+Time: 17:36:47
+Page: /~mpaul/index.php
+IP: 86.32.239.88
+Description: Tele2 Telecommunication Services GmbH
+Referrer: 
+Date: 01/09/2015
+Time: 18:53:50
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/09/2015
+Time: 20:26:53
+Page: /~mpaul/index.php
+IP: 46.151.52.79
+Description: PE Radashevsky Sergiy Oleksandrovich
+Referrer: http://cs.jhu.edu/%7Empaul/
+Date: 01/09/2015
+Time: 22:06:47
+Page: /~mpaul/index.php
+IP: 66.249.64.86
+Org Name: Google Inc.
+Referrer: 
+Date: 01/09/2015
+Time: 23:04:07
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: signup.php
+Date: 01/09/2015
+Time: 23:04:09
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:04:24
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:04:30
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?option=com_community&view=register
+Date: 01/09/2015
+Time: 23:04:31
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?option=com_community&view=register
+Date: 01/09/2015
+Time: 23:04:33
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:04:36
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:04:39
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?dll=register
+Date: 01/09/2015
+Time: 23:04:42
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?dll=register
+Date: 01/09/2015
+Time: 23:05:01
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?dll=register
+Date: 01/09/2015
+Time: 23:05:14
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:05:16
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:05:18
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:05:22
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:05:26
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:05:40
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:05:44
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:05:49
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/?s=Register
+Date: 01/09/2015
+Time: 23:05:52
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:05:58
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:06:08
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:06:14
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:06:18
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:06:20
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?app=home&mod=public&act=register
+Date: 01/09/2015
+Time: 23:06:25
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:09:33
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: signup.php
+Date: 01/09/2015
+Time: 23:09:34
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:09:38
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:09:53
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?option=com_community&view=register
+Date: 01/09/2015
+Time: 23:09:55
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?option=com_community&view=register
+Date: 01/09/2015
+Time: 23:09:56
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:09:59
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:10:02
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?dll=register
+Date: 01/09/2015
+Time: 23:10:07
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?dll=register
+Date: 01/09/2015
+Time: 23:10:42
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?dll=register
+Date: 01/09/2015
+Time: 23:10:50
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:10:54
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:10:54
+Page: /~mpaul/index.php
+IP: 72.219.209.232
+Org Name: Cox Communications Inc.
+Referrer: http://speak.clsp.jhu.edu/people/categories/graduate-students/
+Date: 01/09/2015
+Time: 23:10:56
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:11:01
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:11:04
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:11:19
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:11:22
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:11:25
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/?s=Register
+Date: 01/09/2015
+Time: 23:11:29
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:11:33
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/09/2015
+Time: 23:11:37
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:11:40
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:11:45
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:11:50
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: http://cs.jhu.edu/~mpaul/index.php?app=home&mod=public&act=register
+Date: 01/09/2015
+Time: 23:11:53
+Page: /~mpaul/index.php
+IP: 175.42.44.63
+Description: Fuzhou city, fujian provincial network of UNICOM
+Referrer: 
+Date: 01/09/2015
+Time: 23:38:28
+Page: /~mpaul/downloads/flu_data.php
+IP: 66.249.64.86
+Org Name: Google Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 01:43:55
+Page: /~mpaul/index.php
+IP: 144.76.201.69
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/10/2015
+Time: 01:44:52
+Page: /~mpaul/index.php
+IP: 79.9.171.44
+Description: NAS DHCP Pool BOLZANO
+Referrer: https://www.google.it/
+Date: 01/10/2015
+Time: 01:55:30
+Page: /~mpaul/index.php
+IP: 66.249.64.92
+Org Name: Google Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 02:05:23
+Page: /~mpaul/index.php
+IP: 216.171.12.44
+Org Name: PAVLOV MEDIA INC
+Referrer: https://www.google.com/
+Date: 01/10/2015
+Time: 02:05:49
+Page: /~mpaul/index.php
+IP: 115.236.153.102
+Description: SHENZHENG-TENGXUN
+Referrer: 
+Date: 01/10/2015
+Time: 03:05:18
+Page: /~mpaul/index.php
+IP: 131.107.174.223
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/10/2015
+Time: 03:42:54
+Page: /~mpaul/downloads/flu_data.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 04:02:00
+Page: /~mpaul/downloads/mm.php
+IP: 176.9.50.43
+Description: Hetzner Online AG
+Referrer: 
+Date: 01/10/2015
+Time: 04:19:50
+Page: /~mpaul/index.php
+IP: 218.30.103.67
+Description: CHINANET IDC center
+Referrer: 
+Date: 01/10/2015
+Time: 06:53:02
+Page: /~mpaul/index.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 10:50:11
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/10/2015
+Time: 10:50:11
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/10/2015
+Time: 10:50:11
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/10/2015
+Time: 10:50:11
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/10/2015
+Time: 10:50:12
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/10/2015
+Time: 10:50:12
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/10/2015
+Time: 11:15:12
+Page: /~mpaul/index.php
+IP: 176.14.223.249
+Description: Dynamic IP Pool for Broadband Customers
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/10/2015
+Time: 11:16:11
+Page: /~mpaul/index.php
+IP: 54.177.120.127
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 11:29:10
+Page: /~mpaul/index.php
+IP: 10.252.98.218
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/10/2015
+Time: 11:39:11
+Page: /~mpaul/index.php
+IP: 65.182.50.240
+Org Name: DirecPath, LLC
+Referrer: http://t.co/37HQheKXB8
+Date: 01/10/2015
+Time: 12:04:12
+Page: /~mpaul/index.php
+IP: 23.238.33.186
+Org Name: Hostwinds LLC.
+Referrer: 
+Date: 01/10/2015
+Time: 12:05:12
+Page: /~mpaul/index.php
+IP: 23.238.33.186
+Org Name: Hostwinds LLC.
+Referrer: 
+Date: 01/10/2015
+Time: 12:13:07
+Page: /~mpaul/index.php
+IP: 119.237.163.148
+Description: Hong Kong Telecommunications (HKT) Limited Mass Internet
+Referrer: 
+Date: 01/10/2015
+Time: 13:16:05
+Page: /~mpaul/index.php
+IP: 144.76.155.8
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/10/2015
+Time: 14:40:57
+Page: /~mpaul/index.php
+IP: 46.151.52.178
+Description: PE Radashevsky Sergiy Oleksandrovich
+Referrer: http://cs.jhu.edu/%7Empaul/
+Date: 01/10/2015
+Time: 15:28:08
+Page: /~mpaul/index.php
+IP: 66.249.64.78
+Org Name: Google Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 15:30:05
+Page: /~mpaul/downloads/mftm.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/10/2015
+Time: 18:05:30
+Page: /~mpaul/downloads/ccdata.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 18:06:41
+Page: /~mpaul/index.php
+IP: 66.249.64.78
+Org Name: Google Inc.
+Referrer: 
+Date: 01/10/2015
+Time: 18:54:28
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/10/2015
+Time: 20:48:21
+Page: /~mpaul/index.php
+IP: 93.186.202.253
+Description: myLoc managed IT AG
+Referrer: 
+Date: 01/10/2015
+Time: 22:33:44
+Page: /~mpaul/index.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/11/2015
+Time: 00:31:05
+Page: /~mpaul/index.php
+IP: 46.151.52.178
+Description: PE Radashevsky Sergiy Oleksandrovich
+Referrer: http://cs.jhu.edu/%7Empaul/
+Date: 01/11/2015
+Time: 00:54:57
+Page: /~mpaul/downloads/mftm.php
+IP: 66.249.64.86
+Org Name: Google Inc.
+Referrer: 
+Date: 01/11/2015
+Time: 07:30:44
+Page: /~mpaul/index.php
+IP: 174.129.237.157
+Org Name: Amazon.com, Inc.
+Referrer: 
+Date: 01/11/2015
+Time: 09:40:46
+Page: /~mpaul/index.php
+IP: 46.197.168.147
+Description: Turksat Services
+Referrer: https://www.google.com.tr/
+Date: 01/11/2015
+Time: 10:50:40
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/11/2015
+Time: 10:50:40
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/11/2015
+Time: 10:50:40
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/11/2015
+Time: 10:50:40
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/11/2015
+Time: 10:50:41
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/11/2015
+Time: 10:50:41
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/11/2015
+Time: 12:16:17
+Page: /~mpaul/index.php
+IP: 38.68.241.59
+Org Name: PSINet, Inc.
+Referrer: https://www.google.com/
+Date: 01/11/2015
+Time: 12:16:34
+Page: /~mpaul/downloads/flu_data.php
+IP: 38.68.241.59
+Org Name: PSINet, Inc.
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/11/2015
+Time: 13:18:21
+Page: /~mpaul/index.php
+IP: 90.50.217.131
+Description: BSTOU656 Toulouse Bloc 2
+Referrer: http://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCMQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=Y76yVMXjI9HeasuogeAH&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=qScOq8fiC4rAIGy9NxGBLA&bvm=bv.83339334,d.d2s
+Date: 01/11/2015
+Time: 14:11:36
+Page: /~mpaul/downloads/flda.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/11/2015
+Time: 18:54:46
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/11/2015
+Time: 19:10:35
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/11/2015
+Time: 19:56:28
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/11/2015
+Time: 19:57:34
+Page: /~mpaul/downloads/mftm.php
+IP: 157.55.39.47
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/11/2015
+Time: 20:01:12
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/11/2015
+Time: 20:07:59
+Page: /~mpaul/index.php
+IP: 188.165.15.210
+Description: OVH SAS
+Referrer: 
+Date: 01/11/2015
+Time: 22:49:23
+Page: /~mpaul/downloads/healthcare.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/12/2015
+Time: 05:38:03
+Page: /~mpaul/downloads/mftm.php
+IP: 148.251.75.46
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/12/2015
+Time: 06:42:50
+Page: /~mpaul/index.php
+IP: 144.76.155.8
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/12/2015
+Time: 07:03:00
+Page: /~mpaul/index.php
+IP: 148.251.124.42
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/12/2015
+Time: 07:43:31
+Page: /~mpaul/index.php
+IP: 144.76.155.8
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/12/2015
+Time: 09:23:43
+Page: /~mpaul/index.php
+IP: 10.188.160.89
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/12/2015
+Time: 09:31:12
+Page: /~mpaul/index.php
+IP: 10.188.160.89
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/12/2015
+Time: 09:33:28
+Page: /~mpaul/index.php
+IP: 10.188.160.89
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/12/2015
+Time: 09:52:39
+Page: /~mpaul/index.php
+IP: 10.188.160.89
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/12/2015
+Time: 09:55:18
+Page: /~mpaul/index.php
+IP: 10.188.160.89
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/12/2015
+Time: 10:51:27
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/12/2015
+Time: 10:51:27
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/12/2015
+Time: 10:51:27
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/12/2015
+Time: 10:51:27
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/12/2015
+Time: 10:51:27
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/12/2015
+Time: 10:51:27
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/12/2015
+Time: 11:03:10
+Page: /~mpaul/index.php
+IP: 10.188.160.89
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/12/2015
+Time: 11:39:05
+Page: /~mpaul/index.php
+IP: 137.205.238.209
+Org Name: RIPE Network Coordination Centre
+Referrer: http://www.socialmediahealthresearch.org/resources
+Date: 01/12/2015
+Time: 13:25:49
+Page: /~mpaul/index.php
+IP: 66.249.64.96
+Org Name: Google Inc.
+Referrer: 
+Date: 01/12/2015
+Time: 14:32:55
+Page: /~mpaul/index.php
+IP: 80.122.213.230
+Description: CHRISTIAN PIRKER
+Referrer: 
+Date: 01/12/2015
+Time: 14:46:34
+Page: /~mpaul/downloads/flda.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/12/2015
+Time: 16:03:15
+Page: /~mpaul/index.php
+IP: 10.188.160.89
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/12/2015
+Time: 16:30:13
+Page: /~mpaul/index.php
+IP: 98.218.80.121
+Org Name: Comcast Cable Communications, Inc.
+Referrer: https://www.google.com/
+Date: 01/12/2015
+Time: 18:55:36
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/12/2015
+Time: 19:44:58
+Page: /~mpaul/index.php
+IP: 176.14.215.109
+Description: Dynamic IP Pool for Broadband Customers
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/12/2015
+Time: 19:58:51
+Page: /~mpaul/index.php
+IP: 176.14.215.109
+Description: Dynamic IP Pool for Broadband Customers
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/12/2015
+Time: 20:33:13
+Page: /~mpaul/downloads/flu_data.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/12/2015
+Time: 21:04:26
+Page: /~mpaul/index.php
+IP: 172.56.34.210
+Org Name: T-Mobile USA, Inc.
+Referrer: http://www.google.com/m/search?=client=ms-nokia-wp&q=%6D%69%63%68%61%65%6C+%70%61%75%6C
+Date: 01/12/2015
+Time: 21:26:44
+Page: /~mpaul/downloads/mftm.php
+IP: 134.249.141.83
+Org Name: RIPE Network Coordination Centre
+Referrer: http://cs.jhu.edu/%7Empaul/downloads/mftm.php
+Date: 01/12/2015
+Time: 23:09:04
+Page: /~mpaul/index.php
+IP: 23.242.19.218
+Org Name: Time Warner Cable Internet LLC
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CB4QFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=WZq0VICvEcfioASc8IHACw&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.83339334,d.cGU
+Date: 01/13/2015
+Time: 00:09:02
+Page: /~mpaul/downloads/ccdata.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/13/2015
+Time: 00:19:40
+Page: /~mpaul/index.php
+IP: 72.207.230.104
+Org Name: Cox Communications Inc.
+Referrer: https://www.google.com/
+Date: 01/13/2015
+Time: 01:42:41
+Page: /~mpaul/index.php
+IP: 220.191.168.13
+Description: Ningbo Nuodinghan College
+Referrer: http://www.cs.jhu.edu/~mdredze/group.php
+Date: 01/13/2015
+Time: 02:19:15
+Page: /~mpaul/index.php
+IP: 220.191.168.13
+Description: Ningbo Nuodinghan College
+Referrer: http://www.socialmediahealthresearch.org/resources
+Date: 01/13/2015
+Time: 02:33:24
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/13/2015
+Time: 02:41:08
+Page: /~mpaul/index.php
+IP: 66.249.64.92
+Org Name: Google Inc.
+Referrer: 
+Date: 01/13/2015
+Time: 03:26:19
+Page: /~mpaul/index.php
+IP: 131.234.131.30
+Org Name: RIPE Network Coordination Centre
+Referrer: http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CCEQFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=pda0VNXAHqOv7AaFtoDgCg&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.83339334,d.d2s
+Date: 01/13/2015
+Time: 04:32:27
+Page: /~mpaul/downloads/mftm.php
+IP: 5.53.168.86
+Description: Blizoo Media and Broadband EAD
+Referrer: 
+Date: 01/13/2015
+Time: 06:03:28
+Page: /~mpaul/index.php
+IP: 148.251.124.42
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/13/2015
+Time: 06:22:16
+Page: /~mpaul/index.php
+IP: 64.233.173.142
+Org Name: Google Inc.
+Referrer: 
+Date: 01/13/2015
+Time: 06:33:27
+Page: /~mpaul/downloads/flu_data.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/13/2015
+Time: 07:03:08
+Page: /~mpaul/index.php
+IP: 5.53.168.86
+Description: Blizoo Media and Broadband EAD
+Referrer: 
+Date: 01/13/2015
+Time: 08:37:40
+Page: /~mpaul/index.php
+IP: 14.139.38.11
+Description: Indian Institute of Technology Kanpur
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCUQFjAB&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=mx-1VPXXBM7juQTJhIBA&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=ZTmGw4hKRV_bumzpk95x1Q&bvm=bv.83339334,d.c2E
+Date: 01/13/2015
+Time: 09:15:02
+Page: /~mpaul/index.php
+IP: 130.245.32.106
+Org Name: State University of New York at Stony Brook
+Referrer: 
+Date: 01/13/2015
+Time: 09:17:15
+Page: /~mpaul/index.php
+IP: 130.245.32.106
+Org Name: State University of New York at Stony Brook
+Referrer: 
+Date: 01/13/2015
+Time: 09:58:52
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/13/2015
+Time: 09:58:53
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/13/2015
+Time: 10:51:54
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/13/2015
+Time: 10:51:54
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/13/2015
+Time: 10:51:54
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/13/2015
+Time: 10:51:54
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/13/2015
+Time: 10:51:54
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/13/2015
+Time: 10:51:54
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/13/2015
+Time: 10:53:05
+Page: /~mpaul/downloads/mftm.php
+IP: 128.135.250.249
+Org Name: University of Chicago
+Referrer: https://www.google.com/
+Date: 01/13/2015
+Time: 10:53:24
+Page: /~mpaul/index.php
+IP: 128.135.250.249
+Org Name: University of Chicago
+Referrer: https://www.google.com/
+Date: 01/13/2015
+Time: 10:55:35
+Page: /~mpaul/downloads/healthcare.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/13/2015
+Time: 10:56:31
+Page: /~mpaul/index.php
+IP: 128.135.250.249
+Org Name: University of Chicago
+Referrer: https://www.google.com/
+Date: 01/13/2015
+Time: 11:55:13
+Page: /~mpaul/index.php
+IP: 144.76.155.8
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/13/2015
+Time: 11:55:47
+Page: /~mpaul/downloads/mm.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/13/2015
+Time: 13:11:04
+Page: /~mpaul/index.php
+IP: 163.177.69.37
+Description: China Unicom Guangdong province network
+Referrer: 
+Date: 01/13/2015
+Time: 13:19:52
+Page: /~mpaul/index.php
+IP: 211.212.39.185
+From ??? Check WHOIS output! whoisCache/211.212.39.185.txt
+Referrer: http://search.daum.net/
+Date: 01/13/2015
+Time: 13:29:13
+Page: /~mpaul/index.php
+IP: 123.30.175.224
+Description: VietNam Data Communication Company (VDC)
+Referrer: 
+Date: 01/13/2015
+Time: 13:58:04
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/13/2015
+Time: 14:34:46
+Page: /~mpaul/index.php
+IP: 128.125.133.201
+Org Name: University of Southern California
+Referrer: 
+Date: 01/13/2015
+Time: 15:13:12
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/13/2015
+Time: 15:23:39
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/13/2015
+Time: 15:24:19
+Page: /~mpaul/index.php
+IP: 24.242.80.207
+Org Name: Time Warner Cable Internet LLC
+Referrer: 
+Date: 01/13/2015
+Time: 15:39:37
+Page: /~mpaul/index.php
+IP: 129.2.164.85
+Org Name: University of Maryland
+Referrer: 
+Date: 01/13/2015
+Time: 15:55:56
+Page: /~mpaul/index.php
+IP: 24.242.80.207
+Org Name: Time Warner Cable Internet LLC
+Referrer: 
+Date: 01/13/2015
+Time: 15:57:28
+Page: /~mpaul/index.php
+IP: 24.242.80.207
+Org Name: Time Warner Cable Internet LLC
+Referrer: 
+Date: 01/13/2015
+Time: 16:02:28
+Page: /~mpaul/index.php
+IP: 24.242.80.207
+Org Name: Time Warner Cable Internet LLC
+Referrer: 
+Date: 01/13/2015
+Time: 16:02:28
+Page: /~mpaul/index.php
+IP: 24.242.80.207
+Org Name: Time Warner Cable Internet LLC
+Referrer: 
+Date: 01/13/2015
+Time: 17:21:32
+Page: /~mpaul/index.php
+IP: 73.201.180.174
+Org Name: Comcast IP Services, L.L.C.
+Referrer: http://speak.clsp.jhu.edu/people/categories/graduate-students/
+Date: 01/13/2015
+Time: 18:00:06
+Page: /~mpaul/index.php
+IP: 156.111.111.156
+Org Name: The Trustees of Columbia University in the City of New York
+Referrer: https://www.google.com/
+Date: 01/13/2015
+Time: 18:36:46
+Page: /~mpaul/downloads/mftm.php
+IP: 66.249.64.78
+Org Name: Google Inc.
+Referrer: 
+Date: 01/13/2015
+Time: 18:55:48
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/13/2015
+Time: 19:15:48
+Page: /~mpaul/index.php
+IP: 128.184.188.40
+Org Name: Asia Pacific Network Information Centre
+Referrer: https://www.google.com.au/
+Date: 01/13/2015
+Time: 22:18:15
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/14/2015
+Time: 00:06:45
+Page: /~mpaul/index.php
+IP: 76.181.85.173
+Org Name: Time Warner Cable Internet LLC
+Referrer: http://www.cs.jhu.edu/~mdredze/group.php
+Date: 01/14/2015
+Time: 01:09:59
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/14/2015
+Time: 01:10:34
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/14/2015
+Time: 01:17:49
+Page: /~mpaul/downloads/mftm.php
+IP: 157.55.39.48
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/14/2015
+Time: 05:36:19
+Page: /~mpaul/index.php
+IP: 108.47.45.14
+Org Name: Verizon Online LLC
+Referrer: https://www.google.com/
+Date: 01/14/2015
+Time: 06:56:25
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/14/2015
+Time: 08:01:20
+Page: /~mpaul/index.php
+IP: 148.251.124.42
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/14/2015
+Time: 09:08:16
+Page: /~mpaul/index.php
+IP: 144.76.185.173
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/14/2015
+Time: 10:18:25
+Page: /~mpaul/downloads/healthcare.php
+IP: 157.55.39.102
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/14/2015
+Time: 10:26:55
+Page: /~mpaul/downloads/mm.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/14/2015
+Time: 10:52:29
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/14/2015
+Time: 10:52:29
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/14/2015
+Time: 10:52:29
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/14/2015
+Time: 10:52:29
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/14/2015
+Time: 10:52:29
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/14/2015
+Time: 10:52:29
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/14/2015
+Time: 12:56:05
+Page: /~mpaul/downloads/mftm.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/14/2015
+Time: 13:33:45
+Page: /~mpaul/index.php
+IP: 66.249.64.100
+Org Name: Google Inc.
+Referrer: 
+Date: 01/14/2015
+Time: 15:10:48
+Page: /~mpaul/index.php
+IP: 73.44.28.192
+Org Name: Comcast IP Services, L.L.C.
+Referrer: https://www.google.com/
+Date: 01/14/2015
+Time: 15:33:10
+Page: /~mpaul/index.php
+IP: 123.30.175.227
+Description: VietNam Data Communication Company (VDC)
+Referrer: 
+Date: 01/14/2015
+Time: 16:41:12
+Page: /~mpaul/downloads/mm.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/14/2015
+Time: 18:37:30
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/14/2015
+Time: 18:43:37
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/14/2015
+Time: 18:56:22
+Page: /~mpaul/index.php
+IP: 134.58.42.134
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/14/2015
+Time: 20:54:34
+Page: /~mpaul/index.php
+IP: 144.76.163.48
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/14/2015
+Time: 22:08:23
+Page: /~mpaul/index.php
+IP: 144.76.155.8
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/14/2015
+Time: 22:48:34
+Page: /~mpaul/index.php
+IP: 69.251.181.187
+Org Name: Comcast Cable Communications, Inc.
+Referrer: https://www.google.com/
+Date: 01/15/2015
+Time: 00:57:03
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/15/2015
+Time: 01:12:10
+Page: /~mpaul/index.php
+IP: 66.249.64.100
+Org Name: Google Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 03:04:43
+Page: /~mpaul/downloads/flda.php
+IP: 66.249.64.82
+Org Name: Google Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 04:26:02
+Page: /~mpaul/downloads/mftm.php
+IP: 46.111.122.66
+Description: (IR000829) BGUEIP, Irkutsk
+Referrer: http://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0CDcQFjAD&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2Fdownloads%2Fmftm.php&ei=pYe3VLr5HOfTygOwr4CIDQ&usg=AFQjCNEAhT7SHY2r2ZtC0wKUDwZ8oo-Xbw&sig2=qk6mQwy0nW8FKjCnAgnNGg&bvm=bv.83640239,d.bGQ&cad=rja
+Date: 01/15/2015
+Time: 05:15:39
+Page: /~mpaul/index.php
+IP: 184.187.162.40
+Org Name: Cox Communications Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 05:15:40
+Page: /~mpaul/index.php
+IP: 184.187.162.40
+Org Name: Cox Communications Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 05:15:40
+Page: /~mpaul/index.php
+IP: 184.187.162.40
+Org Name: Cox Communications Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 05:55:55
+Page: /~mpaul/index.php
+IP: 109.79.94.187
+Description: Vodafone ISP
+Referrer: http://www.google.ie/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CCgQFjAB&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=tJy3VNrIA8W5UcmTgqgN&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&bvm=bv.83640239,d.d24
+Date: 01/15/2015
+Time: 06:41:47
+Page: /~mpaul/index.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 10:53:05
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/15/2015
+Time: 10:53:05
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/15/2015
+Time: 10:53:06
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/15/2015
+Time: 10:53:06
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/15/2015
+Time: 10:53:06
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/15/2015
+Time: 10:53:06
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/15/2015
+Time: 11:13:54
+Page: /~mpaul/index.php
+IP: 73.195.122.142
+Org Name: Comcast IP Services, L.L.C.
+Referrer: https://www.google.com/
+Date: 01/15/2015
+Time: 11:14:33
+Page: /~mpaul/index.php
+IP: 69.173.127.101
+Org Name: The Broad Institute, Inc.
+Referrer: https://www.google.com/
+Date: 01/15/2015
+Time: 11:46:14
+Page: /~mpaul/downloads/mftm.php
+IP: 69.113.50.200
+Org Name: Optimum Online
+Referrer: 
+Date: 01/15/2015
+Time: 13:30:50
+Page: /~mpaul/index.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/15/2015
+Time: 14:44:28
+Page: /~mpaul/index.php
+IP: 78.111.200.19
+Description: Cable & Wireless Guernsey ADSL Customers
+Referrer: https://www.google.com/
+Date: 01/15/2015
+Time: 14:45:36
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/15/2015
+Time: 14:45:37
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/15/2015
+Time: 15:35:45
+Page: /~mpaul/downloads/mftm.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/15/2015
+Time: 16:20:19
+Page: /~mpaul/index.php
+IP: 128.101.15.72
+Org Name: University of Minnesota
+Referrer: https://www.google.com/
+Date: 01/15/2015
+Time: 16:24:59
+Page: /~mpaul/index.php
+IP: 66.249.64.86
+Org Name: Google Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 17:33:19
+Page: /~mpaul/downloads/flda.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/15/2015
+Time: 18:07:09
+Page: /~mpaul/index.php
+IP: 46.151.53.3
+Description: PE Radashevsky Sergiy Oleksandrovich
+Referrer: http://cs.jhu.edu/%7Empaul/
+Date: 01/15/2015
+Time: 18:08:21
+Page: /~mpaul/index.php
+IP: 66.249.64.78
+Org Name: Google Inc.
+Referrer: 
+Date: 01/15/2015
+Time: 19:36:23
+Page: /~mpaul/index.php
+IP: 131.107.192.123
+Org Name: Microsoft Corporation
+Referrer: http://recruitresearch/Pages/ApplicantDetail.aspx?applicantId=32075
+Date: 01/15/2015
+Time: 22:02:53
+Page: /~mpaul/index.php
+IP: 128.8.120.3
+Org Name: University of Maryland
+Referrer: 
+Date: 01/15/2015
+Time: 23:54:30
+Page: /~mpaul/index.php
+IP: 144.76.163.48
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/16/2015
+Time: 00:34:35
+Page: /~mpaul/index.php
+IP: 95.28.17.30
+Description: Dynamic IP Pool for broadband customers
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/16/2015
+Time: 00:57:39
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/16/2015
+Time: 01:28:35
+Page: /~mpaul/index.php
+IP: 172.245.0.140
+Org Name: ColoCrossing
+Referrer: http://cs.jhu.edu/
+Date: 01/16/2015
+Time: 01:44:17
+Page: /~mpaul/downloads/healthcare.php
+IP: 157.55.39.102
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/16/2015
+Time: 01:45:01
+Page: /~mpaul/downloads/mm.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/16/2015
+Time: 02:19:37
+Page: /~mpaul/index.php
+IP: 50.148.72.177
+Org Name: Comcast Cable Communications Holdings, Inc
+Referrer: https://www.google.com/
+Date: 01/16/2015
+Time: 08:26:53
+Page: /~mpaul/index.php
+IP: 66.249.81.149
+Org Name: Google Inc.
+Referrer: 
+Date: 01/16/2015
+Time: 09:42:57
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/16/2015
+Time: 09:42:59
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/16/2015
+Time: 09:48:44
+Page: /~mpaul/downloads/mftm.php
+IP: 157.55.39.48
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/16/2015
+Time: 10:36:28
+Page: /~mpaul/index.php
+IP: 46.126.198.45
+Description: Cablecom GmbH
+Referrer: 
+Date: 01/16/2015
+Time: 10:54:13
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/16/2015
+Time: 10:54:13
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/16/2015
+Time: 10:54:13
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/16/2015
+Time: 10:54:13
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/16/2015
+Time: 10:54:13
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/16/2015
+Time: 10:54:13
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/16/2015
+Time: 11:01:22
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 11:10:59
+Page: /~mpaul/index.php
+IP: 148.251.75.46
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/16/2015
+Time: 11:33:44
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 11:33:49
+Page: /~mpaul/index2.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 11:36:37
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 11:36:39
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 11:56:22
+Page: /~mpaul/index.php
+IP: 65.199.36.3
+Org Name: MCI Communications Services, Inc. d/b/a Verizon Business
+Referrer: 
+Date: 01/16/2015
+Time: 12:12:56
+Page: /~mpaul/downloads/flda.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/16/2015
+Time: 12:33:58
+Page: /~mpaul/index.php
+IP: 146.151.213.35
+Org Name: University of Wisconsin Madison
+Referrer: https://www.google.com/
+Date: 01/16/2015
+Time: 13:00:04
+Page: /~mpaul/index.php
+IP: 66.249.64.92
+Org Name: Google Inc.
+Referrer: 
+Date: 01/16/2015
+Time: 13:00:33
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 13:27:01
+Page: /~mpaul/index.php
+IP: 167.220.149.10
+Org Name: Microsoft Corporation
+Referrer: https://www.google.com/
+Date: 01/16/2015
+Time: 13:42:23
+Page: /~mpaul/index.php
+IP: 10.188.154.218
+Org Name: Internet Assigned Numbers Authority
+Referrer: http://www.cs.jhu.edu/2013/01/01/michael-paul-microsoft-research-fellowship/
+Date: 01/16/2015
+Time: 14:32:38
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 14:34:29
+Page: /~mpaul/index.php
+IP: 12.218.238.247
+Org Name: AT&T Services, Inc.
+Referrer: http://www.google.com/url?sa=t&rct=j&q=&esrc=s&frm=1&source=web&cd=1&ved=0CB4QFjAA&url=http%3A%2F%2Fcs.jhu.edu%2F~mpaul%2F&ei=k2e5VMzjKIT8yQSU1IDgDg&usg=AFQjCNGZpGUWcVKYeWiCK1ctMTt13s8bpg&sig2=CxSN9VqbGuZmtbH1D7gb4Q
+Date: 01/16/2015
+Time: 15:08:32
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 15:08:34
+Page: /~mpaul/index2.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 15:09:33
+Page: /~mpaul/index2.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 15:09:56
+Page: /~mpaul/index2.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 15:13:20
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 15:48:24
+Page: /~mpaul/index.php
+IP: 10.252.36.111
+Org Name: Internet Assigned Numbers Authority
+Referrer: 
+Date: 01/16/2015
+Time: 16:18:44
+Page: /~mpaul/index.php
+IP: 176.10.104.103
+Description: Colocation
+Referrer: http://cs.jhu.edu/
+Date: 01/16/2015
+Time: 16:32:50
+Page: /~mpaul/index.php
+IP: 70.112.211.107
+Org Name: Time Warner Cable Internet LLC
+Referrer: 
+Date: 01/16/2015
+Time: 16:51:38
+Page: /~mpaul/index.php
+IP: 72.66.65.165
+Org Name: Verizon Online LLC
+Referrer: 
+Date: 01/16/2015
+Time: 19:13:59
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/16/2015
+Time: 19:28:53
+Page: /~mpaul/index.php
+IP: 128.205.167.5
+Org Name: State University of New York at Buffalo
+Referrer: https://www.google.com/
+Date: 01/16/2015
+Time: 19:29:15
+Page: /~mpaul/downloads/mm.php
+IP: 128.205.167.5
+Org Name: State University of New York at Buffalo
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/16/2015
+Time: 19:30:33
+Page: /~mpaul/index.php
+IP: 128.205.167.5
+Org Name: State University of New York at Buffalo
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/16/2015
+Time: 19:30:55
+Page: /~mpaul/index.php
+IP: 128.205.167.5
+Org Name: State University of New York at Buffalo
+Referrer: http://cs.jhu.edu/~mpaul/
+Date: 01/16/2015
+Time: 19:31:59
+Page: /~mpaul/index.php
+IP: 128.205.167.5
+Org Name: State University of New York at Buffalo
+Referrer: 
+Date: 01/16/2015
+Time: 19:45:31
+Page: /~mpaul/index.php
+IP: 108.69.64.75
+Org Name: AT&T Internet Services
+Referrer: https://www.google.com/
+Date: 01/16/2015
+Time: 19:52:55
+Page: /~mpaul/index.php
+IP: 137.110.101.23
+Org Name: University of California, San Diego
+Referrer: http://www.cs.jhu.edu/2013/01/01/michael-paul-microsoft-research-fellowship/
+Date: 01/16/2015
+Time: 22:38:44
+Page: /~mpaul/index.php
+IP: 54.161.181.255
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/16/2015
+Time: 22:39:27
+Page: /~mpaul/index.php
+IP: 14.17.18.147
+Description: CHINANET Guangdong province network
+Referrer: 
+Date: 01/17/2015
+Time: 00:00:27
+Page: /~mpaul/index.php
+IP: 76.191.26.11
+Org Name: CMI Broadband
+Referrer: https://www.google.com/
+Date: 01/17/2015
+Time: 00:58:04
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 02:36:05
+Page: /~mpaul/index.php
+IP: 188.210.236.252
+Description: Olarian Augustin Maradona PFA
+Referrer: http://cs.jhu.edu
+Date: 01/17/2015
+Time: 04:36:29
+Page: /~mpaul/index.php
+IP: 93.92.217.228
+Description: Home users at Shluz area
+Referrer: 
+Date: 01/17/2015
+Time: 05:02:21
+Page: /~mpaul/downloads/flda.php
+IP: 66.249.64.86
+Org Name: Google Inc.
+Referrer: 
+Date: 01/17/2015
+Time: 07:15:44
+Page: /~mpaul/downloads/mftm.php
+IP: 68.180.228.111
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/17/2015
+Time: 08:57:10
+Page: /~mpaul/index.php
+IP: 208.115.111.73
+Org Name: dotnetdotcom.org
+Referrer: 
+Date: 01/17/2015
+Time: 10:22:21
+Page: /~mpaul/index.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 10:33:25
+Page: /~mpaul/index.php
+IP: 128.205.167.5
+Org Name: State University of New York at Buffalo
+Referrer: 
+Date: 01/17/2015
+Time: 10:54:48
+Page: /~mpaul/index.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 10:54:51
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 10:54:51
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 10:54:51
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 10:54:51
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 10:54:51
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 10:54:51
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 10:58:15
+Page: /~mpaul/downloads/flda.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 10:58:17
+Page: /~mpaul/downloads/mm.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 10:58:18
+Page: /~mpaul/downloads/mftm.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 10:58:18
+Page: /~mpaul/downloads/healthcare.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 10:58:18
+Page: /~mpaul/downloads/ccdata.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 10:58:21
+Page: /~mpaul/downloads/flu_data.php
+IP: 192.162.241.253
+Description: Delta Ltd
+Referrer: 
+Date: 01/17/2015
+Time: 11:23:27
+Page: /~mpaul/downloads/ccdata.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/17/2015
+Time: 11:58:45
+Page: /~mpaul/index.php
+IP: 130.126.255.124
+Org Name: University of Illinois
+Referrer: https://www.google.com/
+Date: 01/17/2015
+Time: 12:02:06
+Page: /~mpaul/index.php
+IP: 54.174.235.163
+Org Name: Amazon Technologies Inc.
+Referrer: 
+Date: 01/17/2015
+Time: 12:55:58
+Page: /~mpaul/index.php
+IP: 68.180.229.34
+Org Name: Yahoo! Inc.
+Referrer: 
+Date: 01/17/2015
+Time: 12:58:31
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/17/2015
+Time: 18:19:20
+Page: /~mpaul/index.php
+IP: 209.147.144.9
+Org Name: Arizona State University
+Referrer: https://www.google.com/
+Date: 01/17/2015
+Time: 21:27:31
+Page: /~mpaul/index.php
+IP: 93.186.202.244
+Description: myLoc managed IT AG
+Referrer: 
+Date: 01/17/2015
+Time: 21:42:57
+Page: /~mpaul/index.php
+IP: 98.236.200.23
+Org Name: Comcast Cable Communications, Inc.
+Referrer: 
+Date: 01/17/2015
+Time: 21:47:51
+Page: /~mpaul/downloads/mftm.php
+IP: 98.236.200.23
+Org Name: Comcast Cable Communications, Inc.
+Referrer: 
+Date: 01/18/2015
+Time: 00:28:54
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/18/2015
+Time: 00:56:05
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/18/2015
+Time: 00:56:07
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/18/2015
+Time: 01:00:06
+Page: /~mpaul/downloads/mftm.php
+IP: 157.55.39.48
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/18/2015
+Time: 01:29:36
+Page: /~mpaul/downloads/flu_data.php
+IP: 199.21.99.197
+Org Name: Yandex Inc
+Referrer: 
+Date: 01/18/2015
+Time: 02:03:01
+Page: /~mpaul/index.php
+IP: 128.119.40.196
+Org Name: University of Massachusetts
+Referrer: https://www.google.com/
+Date: 01/18/2015
+Time: 04:01:32
+Page: /~mpaul/index.php
+IP: 122.116.25.211
+Description: Data Communication Business Group,
+Referrer: 
+Date: 01/18/2015
+Time: 04:50:48
+Page: /~mpaul/index.php
+IP: 144.76.163.48
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/18/2015
+Time: 05:42:02
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/18/2015
+Time: 05:42:03
+Page: /~mpaul/index.php
+IP: 207.46.13.78
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/18/2015
+Time: 05:46:52
+Page: /~mpaul/downloads/mftm.php
+IP: 157.55.39.47
+Org Name: Microsoft Corporation
+Referrer: 
+Date: 01/18/2015
+Time: 06:58:55
+Page: /~mpaul/index.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/18/2015
+Time: 06:59:16
+Page: /~mpaul/index.php
+IP: 176.195.173.108
+Description: Net By Net Holding LLC
+Referrer: http://yandex.ru/yandsearch?text=Michal+Pol&lr=213
+Date: 01/18/2015
+Time: 08:51:11
+Page: /~mpaul/index.php
+IP: 83.149.126.98
+Description: LeaseWeb
+Referrer: 
+Date: 01/18/2015
+Time: 09:05:24
+Page: /~mpaul/index.php
+IP: 67.87.88.53
+Org Name: Optimum Online
+Referrer: 
+Date: 01/18/2015
+Time: 09:59:47
+Page: /~mpaul/downloads/mm.php
+IP: 144.76.201.69
+Org Name: RIPE Network Coordination Centre
+Referrer: 
+Date: 01/18/2015
+Time: 10:55:55
+Page: /~mpaul/downloads/flda.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/18/2015
+Time: 10:55:55
+Page: /~mpaul/downloads/flu_data.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/18/2015
+Time: 10:55:55
+Page: /~mpaul/downloads/ccdata.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/18/2015
+Time: 10:55:55
+Page: /~mpaul/downloads/healthcare.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/18/2015
+Time: 10:55:55
+Page: /~mpaul/downloads/mftm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/18/2015
+Time: 10:55:55
+Page: /~mpaul/downloads/mm.php
+IP: 128.220.229.15
+Org Name: Johns Hopkins University
+Referrer: 
+Date: 01/18/2015
+Time: 12:23:16
+Page: /~mpaul/index.php
+IP: 180.76.6.60
+Description: Beijing Baidu Netcom Science and Technology Co., Ltd.
+Referrer: 
+Date: 01/18/2015
+Time: 12:28:42
+Page: /~mpaul/index.php
+IP: 54.177.120.127
+Org Name: Amazon Technologies Inc.
+Referrer: 
