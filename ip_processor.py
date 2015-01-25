@@ -77,15 +77,11 @@ def getGeoIPLookup(ip):
     if os.path.isfile(geoip_result_file):
             geoip_file = open(geoip_result_file)
             geoip_result = geoip_file.read()
-            print "READ:"
-            print geoip_result
             return json.loads(geoip_result)
 	
     obtained = False
     while not obtained:
         geoip_result = urllib.urlopen("http://freegeoip.net/json/%s" % ip).read()
-        print "OBTAINED:"
-        print geoip_result
         if re.match("Try again later", geoip_result):
            obtained = False
            time.sleep(5)
@@ -182,25 +178,6 @@ for line in ipFile.readlines():
         lat_long = "%s, %s" % (loc_dict["latitude"],
                                loc_dict["longitude"])
         geoloc[ip] = lat_long
-#	city = ""
-#	stateprov = ""
-#	country = ""
-#	for whois_line in whois_arr:
-#		m = re.match("City: (.*)",whois_line)
-#		if m is not None:
-#			city = str(m.groups(1)[0].strip())
-#		m = re.match("StateProv: (.*)",whois_line)
-#		if m is not None:
-#			stateprov = str(m.groups(1)[0].strip())		
-#		m = re.match("Country: (.*)",whois_line)
-#		if m is not None:
-#			country = str(m.groups(1)[0].strip())		
-#
-#	if city is not "" or stateprov is not "" or country is not "":
-#		location = "%s, %s, %s" % (city, stateprov, country)
-#		loc[ip] = location
-#	else:
-#		loc[ip] = ""
 
 	# output details for visits since start_analysis_time
 	sys.stdout.write( "Date: %s\n" % date)
