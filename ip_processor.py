@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 import os, sys, subprocess, re, datetime, copy
+import urllib, json
+import time
 from logging import Logger
 from collections import defaultdict, Counter
 
@@ -11,12 +13,15 @@ ipFile = open(sys.argv[1])
 ips_by_date = defaultdict(Counter)
 name = dict()
 loc = dict()
+geoloc = dict()
 
 BOLD = '\033[1m'
 END = '\033[0m'
 
 if not os.path.isdir("whoisCache"):
 	os.mkdir("whoisCache")
+if not os.path.isdir("geoipCache"):
+	os.mkdir("geoipCache")
 if not os.path.isdir("visitHistograms"):
 	os.mkdir("visitHistograms")
 
@@ -66,6 +71,36 @@ def getWhoisForIP(ip):
 
 	return whois_result
 
+def getGeoIPLookup(ip):
+    geoip_result_file = "geoipCache/%s.txt" % ip
+    geoip_result = None
+    if os.path.isfile(geoip_result_file):
+            geoip_file = open(geoip_result_file)
+            geoip_result = geoip_file.read()
+            print "READ:"
+            print geoip_result
+            return json.loads(geoip_result)
+	
+    obtained = False
+    while not obtained:
+        geoip_result = urllib.urlopen("http://freegeoip.net/json/%s" % ip).read()
+        print "OBTAINED:"
+        print geoip_result
+        if re.match("Try again later", geoip_result):
+           obtained = False
+           time.sleep(5)
+        else:
+           obtained = True
+
+        
+    geoip_dict = json.loads(geoip_result)
+    geoip_file = open(geoip_result_file, "w")
+    geoip_file.write(geoip_result)
+    geoip_file.flush()
+    geoip_file.close()
+
+    return geoip_dict
+
 def printIPVisitHistogram(ips,date_str,out):
 	#log.debug ("# Printing IP visit histogram")
 	out.write("%s:\n%s\n" % (date_str, "-"*80))
@@ -81,13 +116,16 @@ def printIPVisitHistogram(ips,date_str,out):
 		if ip in whitelist:
 			out.write(BOLD)
 			end_seq = "%s\n" % (END)
-		out.write((ips[ip]*"=").rjust(20) + (" %s " % ip.rjust(15)) + (" %s " % loc[ip].ljust(25)) + name[ip] + end_seq)
+		out.write((ips[ip]*"=").rjust(20) +
+                        (" %s " % ip.rjust(15)) +
+                        (" %s " % (geoloc[ip].rjust(18)) +
+                            (" %s " % loc[ip].ljust(25)) + name[ip] + end_seq))
 
 
 for line in ipFile.readlines():
 	line_arr = line.split(" ")
 	date = line_arr[0].strip()
-	time = line_arr[1].strip()
+	parse_time = line_arr[1].strip()
 	page = line_arr[2].strip()
 	ip = line_arr[3]
 	ip = ip.strip()
@@ -135,29 +173,38 @@ for line in ipFile.readlines():
 			name[ip] = "???"
 
 	location = ""
-	city = ""
-	stateprov = ""
-	country = ""
-	for whois_line in whois_arr:
-		m = re.match("City: (.*)",whois_line)
-		if m is not None:
-			city = str(m.groups(1)[0].strip())
-		m = re.match("StateProv: (.*)",whois_line)
-		if m is not None:
-			stateprov = str(m.groups(1)[0].strip())		
-		m = re.match("Country: (.*)",whois_line)
-		if m is not None:
-			country = str(m.groups(1)[0].strip())		
+        loc_dict = getGeoIPLookup(ip)
+        location = "%s, %s, %s" % (loc_dict["city"],
+                                   loc_dict["region_code"],
+                                   loc_dict["country_code"])
+        loc[ip] = location
 
-	if city is not "" or stateprov is not "" or country is not "":
-		location = "%s, %s, %s" % (city, stateprov, country)
-		loc[ip] = location
-	else:
-		loc[ip] = ""
+        lat_long = "%s, %s" % (loc_dict["latitude"],
+                               loc_dict["longitude"])
+        geoloc[ip] = lat_long
+#	city = ""
+#	stateprov = ""
+#	country = ""
+#	for whois_line in whois_arr:
+#		m = re.match("City: (.*)",whois_line)
+#		if m is not None:
+#			city = str(m.groups(1)[0].strip())
+#		m = re.match("StateProv: (.*)",whois_line)
+#		if m is not None:
+#			stateprov = str(m.groups(1)[0].strip())		
+#		m = re.match("Country: (.*)",whois_line)
+#		if m is not None:
+#			country = str(m.groups(1)[0].strip())		
+#
+#	if city is not "" or stateprov is not "" or country is not "":
+#		location = "%s, %s, %s" % (city, stateprov, country)
+#		loc[ip] = location
+#	else:
+#		loc[ip] = ""
 
 	# output details for visits since start_analysis_time
 	sys.stdout.write( "Date: %s\n" % date)
-	sys.stdout.write( "Time: %s\n" % time)
+	sys.stdout.write( "Time: %s\n" % parse_time)
 	sys.stdout.write( "Page: %s\n" % page)
 	sys.stdout.write( "IP: %s\n" % ip)
 	if org_name:
@@ -166,6 +213,7 @@ for line in ipFile.readlines():
 		sys.stdout.write( "Description: %s\n" % descr)
 	elif location:
 		sys.stdout.write( "Location: %s\n" % location)
+		sys.stdout.write( "Lat / Long: %s\n" % lat_long)
 	else:
 		sys.stdout.write( "From ??? Check WHOIS output! %s\n" % ip_filename)
 	sys.stdout.write( "Referrer: %s\n" % link_from)
