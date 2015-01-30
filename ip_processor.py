@@ -63,7 +63,14 @@ def getWhoisForIP(ip):
 		whois_result = whois_file.read()
 		return whois_result
 	
-	whois_result = subprocess.check_output("whois %s" % ip, shell=True)	
+        success = False
+        while not success:
+            try:
+                whois_result = subprocess.check_output("whois %s" % ip, shell=True)	
+                success = True
+            except CalledProcessError:
+                success = False
+
 	whois_file = open(whois_result_file, "w")
 	whois_file.write(whois_result)
 	whois_file.flush()
